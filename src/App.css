@@ -41,3 +41,20 @@
   font-size: 20px;
   font-weight: 700;
 }
+.custom-button{
+  margin-top:16px;
+  background-color:darkslategray;
+  color:#ffff;
+  box-shadow: none;
+  border: none;
+  outline: none;
+  min-width: 128px;
+  padding: 12px 16px;
+  font-size:20px ;
+  font-weight: 500;
+
+}
+.custom-button:active{
+  transform: translateY(5px);
+  background-color: #124646;
+}
