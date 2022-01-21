@@ -41,6 +41,12 @@
   font-size: 20px;
   font-weight: 700;
 }
+.custom-input2{
+  padding: 8px 20px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+}
 .custom-button{
   margin-top:16px;
   background-color:darkslategray;
